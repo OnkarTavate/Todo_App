@@ -1,0 +1,8 @@
+.itemContainer {
+    text-align: left;
+}
+.welcomeMessage{
+    font-size: larger;
+    font-weight: 700;
+    margin-top: 40px;
+}
